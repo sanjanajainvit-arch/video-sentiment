@@ -54,20 +54,26 @@ Check what is installed:
 Score the sample transcript. This needs Ollama and does not need a video, a GPU, or the speech models:
 
 ```powershell
-.\.venv\Scripts\video-sentiment score-text examples\sample_turns.json -o outputs\sample
+.\.venv\Scripts\video-sentiment score-text examples\sample_turns.json
 ```
 
-Run a video file:
+That writes `outputs\sample_turns`, using the transcript file name.
+
+Run a video file. The folder name is the file name, without the extension:
 
 ```powershell
-.\.venv\Scripts\video-sentiment analyze C:\path\to\discussion.mp4 -o outputs\discussion
+.\.venv\Scripts\video-sentiment analyze C:\path\to\discussion.mp4
 ```
 
-Or a public YouTube link. The audio is downloaded into the output folder, then analyzed. Quote the link in PowerShell:
+That writes `outputs\discussion`.
+
+Or a public YouTube link. The folder name is the video title. Quote the link in PowerShell:
 
 ```powershell
-.\.venv\Scripts\video-sentiment analyze "https://www.youtube.com/watch?v=VIDEO_ID" -o outputs\video1
+.\.venv\Scripts\video-sentiment analyze "https://www.youtube.com/watch?v=VIDEO_ID"
 ```
+
+A title such as `Boeing vs Airbus In 2026` is saved under `outputs\Boeing vs Airbus In 2026`. Add `-o outputs\my-name` when you want a different folder.
 
 Useful flags:
 

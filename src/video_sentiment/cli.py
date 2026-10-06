@@ -7,7 +7,7 @@ from pathlib import Path
 from video_sentiment import __version__
 from video_sentiment.config import load_settings
 from video_sentiment.errors import VideoSentimentError
-from video_sentiment.download import download_audio, is_media_url
+from video_sentiment.download import default_output_dir, download_audio, is_media_url, safe_folder_name
 from video_sentiment.pipeline import analyze_video, score_transcript
 from video_sentiment.sentiment import ollama_models
 
@@ -26,7 +26,12 @@ def run(argv: list[str] | None = None) -> int:
 
     analyze = sub.add_parser("analyze", help="Run the full pipeline on a video file or a link.")
     analyze.add_argument("video", help="A video file path, or an http(s) link such as YouTube.")
-    analyze.add_argument("-o", "--output", type=Path, required=True)
+    analyze.add_argument(
+        "-o",
+        "--output",
+        type=Path,
+        help="Folder for results. Defaults to outputs/<YouTube title or video file name>.",
+    )
     analyze.add_argument("--config", type=Path)
     analyze.add_argument("--skip-tone", action="store_true")
     analyze.add_argument("--single-speaker", action="store_true")
@@ -35,7 +40,12 @@ def run(argv: list[str] | None = None) -> int:
 
     score = sub.add_parser("score-text", help="Score a JSON transcript. No audio or tone.")
     score.add_argument("transcript", type=Path)
-    score.add_argument("-o", "--output", type=Path, required=True)
+    score.add_argument(
+        "-o",
+        "--output",
+        type=Path,
+        help="Folder for results. Defaults to outputs/<transcript file name>.",
+    )
     score.add_argument("--config", type=Path)
 
     check = sub.add_parser("check", help="Show whether local models and tools are ready.")
@@ -52,20 +62,24 @@ def run(argv: list[str] | None = None) -> int:
             source = str(args.video).strip()
             source_label = None
             media = Path(source)
+            output = args.output or default_output_dir(source)
+            print(f"Saving results to {output}", flush=True)
             if is_media_url(source):
                 print(f"Downloading {source}", flush=True)
-                media = download_audio(source, args.output)
+                media = download_audio(source, output)
                 source_label = source
             analyze_video(
                 media,
-                args.output,
+                output,
                 settings,
                 skip_tone=args.skip_tone,
                 single_speaker=args.single_speaker,
                 source_label=source_label,
             )
         elif args.command == "score-text":
-            score_transcript(args.transcript, args.output, settings)
+            output = args.output or (Path("outputs") / safe_folder_name(args.transcript.stem))
+            print(f"Saving results to {output}", flush=True)
+            score_transcript(args.transcript, output, settings)
         else:
             return check_environment(settings)
     except VideoSentimentError as exc:

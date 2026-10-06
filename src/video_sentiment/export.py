@@ -39,6 +39,24 @@ SUMMARY_FIELDS = [
     "mentions",
 ]
 
+RESULT_FIELDS = [
+    "source",
+    "duration_sec",
+    "speakers",
+    "speaker",
+    "start_sec",
+    "end_sec",
+    "sentence",
+    "subject",
+    "mentioned_as",
+    "sentiment",
+    "evidence",
+    "tone",
+    "tone_score",
+    "words_and_tone_disagree",
+    "confidence",
+]
+
 
 def dominant(counts: dict[str, int]) -> str:
     best = max(counts[label] for label in LABELS)
@@ -96,6 +114,7 @@ def write_outputs(document: dict, out_dir: Path) -> None:
         json.dumps(document, indent=2, ensure_ascii=False) + "\n",
         encoding="utf-8",
     )
+    _write_csv(out_dir / "result.csv", RESULT_FIELDS, result_rows(document))
     _write_csv(out_dir / "utterances.csv", UTTERANCE_FIELDS, _utterance_rows(document))
     _write_csv(out_dir / "summary.csv", SUMMARY_FIELDS, _summary_rows(document))
 
@@ -126,6 +145,34 @@ def _target_dict(target: Target) -> dict:
         "tone_conflict": target.tone_conflict,
         "sentiment_confidence": _round(target.sentiment_confidence, 4),
     }
+
+
+def result_rows(document: dict) -> list[dict]:
+    speakers = ", ".join(document.get("speakers") or [])
+    rows: list[dict] = []
+    for utterance in document["utterances"]:
+        targets = utterance["targets"] or [None]
+        for target in targets:
+            rows.append(
+                {
+                    "source": document["source"],
+                    "duration_sec": document.get("duration_sec", ""),
+                    "speakers": speakers,
+                    "speaker": utterance["speaker"],
+                    "start_sec": utterance["start"],
+                    "end_sec": utterance["end"],
+                    "sentence": utterance["text"],
+                    "subject": "" if target is None else target["resolved"],
+                    "mentioned_as": "" if target is None else target["surface"],
+                    "sentiment": "" if target is None else target["sentiment"],
+                    "evidence": "" if target is None else target["evidence"],
+                    "tone": utterance["tone_polarity"],
+                    "tone_score": utterance["tone_valence"] if utterance["tone_valence"] is not None else "",
+                    "words_and_tone_disagree": "" if target is None else _yes_no(target["tone_conflict"]),
+                    "confidence": "" if target is None else target["sentiment_confidence"],
+                }
+            )
+    return rows
 
 
 def _utterance_rows(document: dict) -> list[dict]:
@@ -182,6 +229,10 @@ def _write_csv(path: Path, fieldnames: list[str], rows: list[dict]) -> None:
         writer = csv.DictWriter(handle, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(rows)
+
+
+def _yes_no(value: object) -> str:
+    return "yes" if value is True or value == "True" else "no"
 
 
 def _round(value: float | None, places: int) -> float | None:

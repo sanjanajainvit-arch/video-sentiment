@@ -1,0 +1,215 @@
+{
+  "source": "https://www.youtube.com/watch?v=J9izomeidpk",
+  "duration_sec": 261.271,
+  "speakers": [
+    "Speaker 1"
+  ],
+  "utterances": [
+    {
+      "speaker": "Speaker 1",
+      "start": 29.748,
+      "end": 32.115,
+      "text": "I think that might be it for the C17.",
+      "overlap": false,
+      "tone_valence": 0.582,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "C17",
+          "resolved": "C17",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "I think that might be it for the C17.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.582,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 37.01,
+      "end": 39.277,
+      "text": "Departing next Ryanair going to Faro.",
+      "overlap": false,
+      "tone_valence": 0.495,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Ryanair",
+          "resolved": "Ryanair",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Departing next Ryanair going to Faro.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.495,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "Faro",
+          "resolved": "Faro",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Departing next Ryanair going to Faro.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.495,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 40.902,
+      "end": 43.048,
+      "text": "And then it'll be the A380 to Dubai.",
+      "overlap": false,
+      "tone_valence": 0.515,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "the A380",
+          "resolved": "the A380",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "And then it'll be the A380 to Dubai.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.515,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "Dubai",
+          "resolved": "Dubai",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "And then it'll be the A380 to Dubai.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.515,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 132.668,
+      "end": 134.916,
+      "text": "Back to Bryce for the Globemaster.",
+      "overlap": false,
+      "tone_valence": 0.608,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Bryce",
+          "resolved": "Bryce",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Back to Bryce",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.608,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "the Globemaster",
+          "resolved": "the Globemaster",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Back to Bryce for the Globemaster",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.608,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 252.582,
+      "end": 256.213,
+      "text": "Thank you.",
+      "overlap": false,
+      "tone_valence": 0.404,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "it",
+          "resolved": "C17",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "I think that might be it for the C17.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.404,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "by_speaker": {
+      "Speaker 1": {
+        "C17": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 2,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "Ryanair": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "Faro": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "the A380": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "Dubai": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "Bryce": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "the Globemaster": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        }
+      }
+    }
+  }
+}

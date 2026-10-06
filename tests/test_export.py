@@ -70,3 +70,11 @@ def test_summary_merges_case_and_csv_keeps_subjectless_lines(tmp_path):
     assert summary[0]["target"] == "Airbus"
     assert summary[0]["mentions"] == "2"
     assert summary[0]["dominant"] == "positive"
+    with (tmp_path / "result.csv").open(encoding="utf-8-sig", newline="") as handle:
+        readable = list(csv.DictReader(handle))
+    assert readable[0]["sentence"] == "Airbus is wonderful."
+    assert readable[0]["subject"] == "Airbus"
+    assert readable[0]["sentiment"] == "positive"
+    assert readable[0]["words_and_tone_disagree"] == "yes"
+    assert readable[0]["duration_sec"] == "5.0"
+    assert readable[2]["subject"] == ""

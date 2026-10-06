@@ -8,6 +8,7 @@ dependencies = [
   "PyYAML>=6.0",
   "imageio-ffmpeg>=0.5",
   "yt-dlp>=2024.1.0",
+  "streamlit>=1.40",
 ]
 
 [project.optional-dependencies]

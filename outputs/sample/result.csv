@@ -1,0 +1,10 @@
+﻿source,duration_sec,speakers,speaker,start_sec,end_sec,sentence,subject,mentioned_as,sentiment,evidence,tone,tone_score,words_and_tone_disagree,confidence
+examples\sample_turns.json,18.2,"Speaker 1, Speaker 2, Speaker 3",Speaker 1,0.0,4.2,Northwind has the best support in the market.,Northwind,Northwind,positive,has the best support,unknown,,no,1.0
+examples\sample_turns.json,18.2,"Speaker 1, Speaker 2, Speaker 3",Speaker 2,4.5,6.954,I would not go with them.,Northwind,them,negative,I would not go with them.,unknown,,no,1.0
+examples\sample_turns.json,18.2,"Speaker 1, Speaker 2, Speaker 3",Speaker 2,6.954,9.8,Contoso is not good on price.,Contoso,Contoso,negative,not good,unknown,,no,1.0
+examples\sample_turns.json,18.2,"Speaker 1, Speaker 2, Speaker 3",Speaker 1,10.0,14.5,"Northwind opened four offices last month, but their delays are still a problem.",Northwind,Northwind,negative,their delays are still a problem,unknown,,no,1.0
+examples\sample_turns.json,18.2,"Speaker 1, Speaker 2, Speaker 3",Speaker 1,10.0,14.5,"Northwind opened four offices last month, but their delays are still a problem.",Northwind,their,negative,their delays are still a problem,unknown,,no,1.0
+examples\sample_turns.json,18.2,"Speaker 1, Speaker 2, Speaker 3",Speaker 1,10.0,14.5,"Northwind opened four offices last month, but their delays are still a problem.",delays,delays,negative,their delays are still a problem,unknown,,no,1.0
+examples\sample_turns.json,18.2,"Speaker 1, Speaker 2, Speaker 3",Speaker 1,10.0,14.5,"Northwind opened four offices last month, but their delays are still a problem.",offices,offices,neutral,Northwind opened four offices last month,unknown,,no,1.0
+examples\sample_turns.json,18.2,"Speaker 1, Speaker 2, Speaker 3",Speaker 3,15.0,18.2,The industry needs both of them.,Northwind,Northwind,positive,The industry needs both of them.,unknown,,no,1.0
+examples\sample_turns.json,18.2,"Speaker 1, Speaker 2, Speaker 3",Speaker 3,15.0,18.2,The industry needs both of them.,Contoso,Contoso,neutral,The industry needs both of them.,unknown,,no,1.0

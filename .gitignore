@@ -10,6 +10,7 @@ build/
 .env
 # Downloaded and extracted audio. Result JSON and CSV under outputs/ are tracked.
 outputs/**/source.*
+outputs/**/run.*
 *.wav
 *.mp3
 .DS_Store

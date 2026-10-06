@@ -1,0 +1,3490 @@
+{
+  "source": "https://www.youtube.com/watch?v=YUCsJaqMyOI",
+  "duration_sec": 365.343,
+  "speakers": [
+    "Speaker 1"
+  ],
+  "utterances": [
+    {
+      "speaker": "Speaker 1",
+      "start": 0.031,
+      "end": 9.687,
+      "text": "How did Nokia lose its entire smartphone empire in just five years, without a single rival ever having to steal the technology it had already built years earlier?",
+      "overlap": false,
+      "tone_valence": 0.42,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "lose",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.42,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "its entire smartphone empire",
+          "resolved": "its entire smartphone empire",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "lose",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.42,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "a single rival",
+          "resolved": "a single rival",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "How did Nokia lose its entire smartphone empire in just five years, without a single rival ever having to steal the technology it had already built years earlier?",
+          "text_confidence": 0.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.42,
+          "tone_conflict": false,
+          "sentiment_confidence": 0.0
+        },
+        {
+          "surface": "the technology it had already built years earlier",
+          "resolved": "the technology it had already built years earlier",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "How did Nokia lose its entire smartphone empire in just five years, without a single rival ever having to steal the technology it had already built years earlier?",
+          "text_confidence": 0.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.42,
+          "tone_conflict": false,
+          "sentiment_confidence": 0.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 10.108,
+      "end": 13.734,
+      "text": "Before phones, Nokia made paper, then rubber boots.",
+      "overlap": false,
+      "tone_valence": 0.418,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Before phones, Nokia made paper, then rubber boots.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.418,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "phones",
+          "resolved": "phones",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Before phones, Nokia made paper, then rubber boots.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.418,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "paper",
+          "resolved": "paper",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Before phones, Nokia made paper, then rubber boots.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.418,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "rubber boots",
+          "resolved": "rubber boots",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Before phones, Nokia made paper, then rubber boots.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.418,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 14.114,
+      "end": 19.804,
+      "text": "For over a century, the company kept re-abandoning entire industries the moment a new one looked stronger.",
+      "overlap": false,
+      "tone_valence": 0.479,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "the company",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "kept re-abandoning entire industries",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.479,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "entire industries",
+          "resolved": "entire industries",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "the moment a new one looked stronger",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.479,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "a new one",
+          "resolved": "a new one",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "the moment a new one looked stronger",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.479,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 20.204,
+      "end": 24.351,
+      "text": "In the 1990s, that same instinct pushed Nokia into mobile phones.",
+      "overlap": false,
+      "tone_valence": 0.378,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "In the 1990s, that same instinct pushed Nokia into mobile phones.",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.378,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 24.331,
+      "end": 29.76,
+      "text": "Engineers obsessed over durability and signal the unglamorous fundamentals nobody else took seriously yet.",
+      "overlap": false,
+      "tone_valence": 0.342,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "engineers",
+          "resolved": "engineers",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Engineers obsessed over durability and signal the unglamorous fundamentals nobody else took seriously yet.",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.342,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "durability",
+          "resolved": "durability",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Engineers obsessed over durability and signal the unglamorous fundamentals nobody else took seriously yet.",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.342,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "signal",
+          "resolved": "signal",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Engineers obsessed over durability and signal the unglamorous fundamentals nobody else took seriously yet.",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.342,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "fundamentals",
+          "resolved": "fundamentals",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Engineers obsessed over durability and signal the unglamorous fundamentals nobody else took seriously yet.",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.342,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 30.141,
+      "end": 30.581,
+      "text": "It worked.",
+      "overlap": false,
+      "tone_valence": 0.485,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "it",
+          "resolved": "Nokia's mobile phone technology",
+          "resolution": "unresolved",
+          "sentiment": "positive",
+          "evidence": "worked",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.485,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 31.122,
+      "end": 36.812,
+      "text": "By the mid-2000s, Nokia phones were everywhere, from Helsinki apartments to villages with no running water.",
+      "overlap": false,
+      "tone_valence": 0.317,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "Nokia phones",
+          "resolved": "Nokia phones",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "were everywhere",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.317,
+          "tone_conflict": true,
+          "sentiment_confidence": 0.75
+        },
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "were everywhere",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.317,
+          "tone_conflict": true,
+          "sentiment_confidence": 0.75
+        },
+        {
+          "surface": "Helsinki apartments",
+          "resolved": "Helsinki apartments",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "from Helsinki apartments",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.317,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "villages with no running water",
+          "resolved": "villages with no running water",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "from villages with no running water",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.317,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 37.072,
+      "end": 38.194,
+      "text": "The brand meant one thing.",
+      "overlap": false,
+      "tone_valence": 0.54,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "the brand",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "meant one thing",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.54,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 38.495,
+      "end": 39.977,
+      "text": "It always simply worked.",
+      "overlap": false,
+      "tone_valence": 0.295,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "it",
+          "resolved": "Nokia phones",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "worked",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.295,
+          "tone_conflict": true,
+          "sentiment_confidence": 0.75
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 39.957,
+      "end": 45.586,
+      "text": "By 2007, Nokia controlled roughly 4 out of every 10 mobile phones sold on the entire planet.",
+      "overlap": false,
+      "tone_valence": 0.384,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "controlled roughly 4 out of every 10 mobile phones sold",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.384,
+          "tone_conflict": true,
+          "sentiment_confidence": 0.75
+        },
+        {
+          "surface": "mobile phones",
+          "resolved": "mobile phones",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "mobile phones sold",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.384,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "the entire planet",
+          "resolved": "the entire planet",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "on the entire planet",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.384,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 45.787,
+      "end": 47.489,
+      "text": "It was the most valuable company in Europe.",
+      "overlap": false,
+      "tone_valence": 0.607,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "was the most valuable company in Europe",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.607,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 48.07,
+      "end": 49.813,
+      "text": "Nobody seriously questioned its future.",
+      "overlap": false,
+      "tone_valence": 0.352,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "its",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Nobody seriously questioned its future.",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.352,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 50.154,
+      "end": 54.561,
+      "text": "Almost every one of those phones ran on Nokia's own operating system, called Symbian.",
+      "overlap": false,
+      "tone_valence": 0.486,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Nokia's own operating system",
+          "resolved": "Symbian",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Almost every one of those phones ran on Nokia's own operating system, called Symbian.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.486,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 54.982,
+      "end": 60.21,
+      "text": "It was reliable, efficient, and critically, it was the foundation the entire company was built on.",
+      "overlap": false,
+      "tone_valence": 0.523,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "it",
+          "resolved": "Nokia's operating system (Symbian)",
+          "resolution": "unresolved",
+          "sentiment": "positive",
+          "evidence": "reliable, efficient",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.523,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "the entire company",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "the foundation the entire company was built on",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.523,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 60.19,
+      "end": 63.513,
+      "text": "But Symbian was also notoriously difficult to build software for.",
+      "overlap": false,
+      "tone_valence": 0.378,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "Symbian",
+          "resolved": "Symbian",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "notoriously difficult to build software for",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.378,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 63.994,
+      "end": 65.355,
+      "text": "Outside developers avoided it.",
+      "overlap": false,
+      "tone_valence": 0.387,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "Symbian",
+          "resolved": "Symbian",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "notoriously difficult to build software for",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.387,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 65.855,
+      "end": 69.819,
+      "text": "Inside Nokia, some engineers had been quietly warning about this problem for years.",
+      "overlap": false,
+      "tone_valence": 0.356,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Inside Nokia",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.356,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "engineers",
+          "resolved": "engineers",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "some engineers",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.356,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 70.1,
+      "end": 71.601,
+      "text": "Here's something most people don't know.",
+      "overlap": false,
+      "tone_valence": 0.259,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "something",
+          "resolved": "unresolved",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "Here's something most people don't know.",
+          "text_confidence": 0.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.259,
+          "tone_conflict": false,
+          "sentiment_confidence": 0.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 72.001,
+      "end": 75.885,
+      "text": "Nokia had built a working touchscreen smartphone years before the iPhone existed.",
+      "overlap": false,
+      "tone_valence": 0.563,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "Nokia had built a working touchscreen smartphone years before the iPhone existed.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.563,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 76.406,
+      "end": 79.889,
+      "text": "It never shipped, and the reason war explains almost everything that follows.",
+      "overlap": false,
+      "tone_valence": 0.332,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "it",
+          "resolved": "Nokia's touchscreen smartphone",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "never shipped",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.332,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 80.99,
+      "end": 83.372,
+      "text": "Meant rebuilding the company's entire product line.",
+      "overlap": false,
+      "tone_valence": 0.532,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "the company",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Meant rebuilding the company's entire product line.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.532,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 83.753,
+      "end": 88.257,
+      "text": "At the exact moment that product line more profitable than it had ever been in Nokia's history.",
+      "overlap": false,
+      "tone_valence": 0.552,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "product line",
+          "resolved": "Nokia's product line",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "more profitable than it had ever been",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.552,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "more profitable than it had ever been in Nokia's history",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.552,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 88.237,
+      "end": 89.759,
+      "text": "So leadership chose not to.",
+      "overlap": false,
+      "tone_valence": 0.443,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "leadership",
+          "resolved": "leadership",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "chose not to",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.443,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 90.219,
+      "end": 93.883,
+      "text": "Then, in January 2007, Apple introduced the iPhone.",
+      "overlap": false,
+      "tone_valence": 0.514,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Apple",
+          "resolved": "Apple",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Then, in January 2007, Apple introduced the iPhone.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.514,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "iPhone",
+          "resolved": "iPhone",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Then, in January 2007, Apple introduced the iPhone.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.514,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 93.923,
+      "end": 98.528,
+      "text": "Nokia's own leadership reportedly saw it as an expensive, low-volume device for niche market.",
+      "overlap": false,
+      "tone_valence": 0.528,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Nokia's own leadership",
+          "resolved": "Nokia's leadership",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "reportedly saw it as an expensive, low-volume device for niche market",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.528,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "it",
+          "resolved": "the iPhone",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "an expensive, low-volume device for niche market",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.528,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 98.748,
+      "end": 99.85,
+      "text": "Nothing to worry about yet.",
+      "overlap": false,
+      "tone_valence": 0.272,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "nothing",
+          "resolved": "unresolved",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "Nothing to worry about yet.",
+          "text_confidence": 0.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.272,
+          "tone_conflict": false,
+          "sentiment_confidence": 0.0
+        },
+        {
+          "surface": "yet",
+          "resolved": "unresolved",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "Nothing to worry about yet.",
+          "text_confidence": 0.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.272,
+          "tone_conflict": false,
+          "sentiment_confidence": 0.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 100.23,
+      "end": 102.532,
+      "text": "And by the raw numbers, they weren't exactly wrong.",
+      "overlap": false,
+      "tone_valence": 0.285,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "they",
+          "resolved": "Nokia's own leadership",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "by the raw numbers, they weren't exactly wrong",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.285,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 102.853,
+      "end": 106.837,
+      "text": "In 2007, Nokia still sold far more phones worldwide than Apple did.",
+      "overlap": false,
+      "tone_valence": 0.514,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "In 2007, Nokia still sold far more phones worldwide than Apple did.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.514,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "Apple",
+          "resolved": "Apple",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "In 2007, Nokia still sold far more phones worldwide than Apple did.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.514,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 107.318,
+      "end": 113.164,
+      "text": "But the iPhone was never really competing on phones at all, ecosystem quietly forming around it.",
+      "overlap": false,
+      "tone_valence": 0.444,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "iPhone",
+          "resolved": "iPhone",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "But the iPhone was never really competing on phones at all",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.444,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "ecosystem",
+          "resolved": "ecosystem",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "ecosystem quietly forming around it",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.444,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 113.144,
+      "end": 116.032,
+      "text": "A year later, Apple opened its app store.",
+      "overlap": false,
+      "tone_valence": 0.428,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Apple",
+          "resolved": "Apple",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "opened its app store",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.428,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 116.052,
+      "end": 119.823,
+      "text": "Developers flooded in almost overnight, chasing an enormous new audience.",
+      "overlap": false,
+      "tone_valence": 0.689,
+      "tone_polarity": "positive",
+      "targets": [
+        {
+          "surface": "developers",
+          "resolved": "developers",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Developers flooded in almost overnight",
+          "text_confidence": 1.0,
+          "tone_polarity": "positive",
+          "tone_valence": 0.689,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "an enormous new audience",
+          "resolved": "an enormous new audience",
+          "resolution": "unresolved",
+          "sentiment": "positive",
+          "evidence": "chasing an enormous new audience",
+          "text_confidence": 1.0,
+          "tone_polarity": "positive",
+          "tone_valence": 0.689,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 121.126,
+      "end": 125.418,
+      "text": "Then Google released Android, free for any manufacturer to use.",
+      "overlap": false,
+      "tone_valence": 0.499,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Google",
+          "resolved": "Google",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Then Google released Android",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.499,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "Android",
+          "resolved": "Android",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Then Google released Android",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.499,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "any manufacturer",
+          "resolved": "any manufacturer",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "free for any manufacturer to use",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.499,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 126.301,
+      "end": 128.166,
+      "text": "Suddenly, competition shifted.",
+      "overlap": false,
+      "tone_valence": 0.394,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "competition",
+          "resolved": "unresolved",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "Suddenly, competition shifted.",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.394,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 128.146,
+      "end": 129.788,
+      "text": "It was software platforms.",
+      "overlap": false,
+      "tone_valence": 0.426,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "software platforms",
+          "resolved": "software platforms",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "It was software platforms.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.426,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 130.169,
+      "end": 139.743,
+      "text": "Nokia's answer was to try everything simultaneously, keep Symbian alive, build an entirely new system called MeeGo, and maintain several smaller platforms alongside both of them at once.",
+      "overlap": false,
+      "tone_valence": 0.539,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "try everything simultaneously, keep Symbian alive, build an entirely new system called MeeGo, and maintain several smaller platforms alongside both of them at once",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.539,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "Symbian",
+          "resolved": "Symbian",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "try everything simultaneously, keep Symbian alive",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.539,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "MeeGo",
+          "resolved": "MeeGo",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "build an entirely new system called MeeGo",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.539,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 140.203,
+      "end": 147.353,
+      "text": "But splitting engineering effort across three competing operating systems meant deadlines slipped, products shipped late, half-finished, or sometimes not at all.",
+      "overlap": false,
+      "tone_valence": 0.415,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "engineering effort",
+          "resolved": "unresolved",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "deadlines slipped, products shipped late, half-finished, or sometimes not at all",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.415,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "three competing operating systems",
+          "resolved": "unresolved",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "deadlines slipped, products shipped late, half-finished, or sometimes not at all",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.415,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "products",
+          "resolved": "unresolved",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "deadlines slipped, products shipped late, half-finished, or sometimes not at all",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.415,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 147.754,
+      "end": 149.897,
+      "text": "Nobody inside the company seemed fully in control.",
+      "overlap": false,
+      "tone_valence": 0.406,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Nobody inside the company",
+          "resolved": "the company",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "Nobody inside the company seemed fully in control.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.406,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 150.237,
+      "end": 153.462,
+      "text": "In 2010, Nokia brought in a new chief executive.",
+      "overlap": false,
+      "tone_valence": 0.502,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "In 2010, Nokia brought in a new chief executive.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.502,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 153.442,
+      "end": 159.698,
+      "text": "Stephen Elop, a former inherited a company still enormous by revenue, but badly losing the race that actually mattered now.",
+      "overlap": false,
+      "tone_valence": 0.281,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "Stephen Elop",
+          "resolved": "Stephen Elop",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "a former",
+          "text_confidence": 0.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.281,
+          "tone_conflict": false,
+          "sentiment_confidence": 0.0
+        },
+        {
+          "surface": "the company",
+          "resolved": "Nokia",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "badly losing the race",
+          "text_confidence": 0.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.281,
+          "tone_conflict": false,
+          "sentiment_confidence": 0.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 160.36,
+      "end": 165.232,
+      "text": "In February 2011, Elop sent employees an internal memo that leaked almost immediately.",
+      "overlap": false,
+      "tone_valence": 0.407,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Elop",
+          "resolved": "Stephen Elop",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "In 2010, Nokia brought in a new chief executive. Stephen Elop, a former inherited a company still enormous by revenue, but badly losing the race that actually mattered now.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.407,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "employees",
+          "resolved": "employees",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "In February 2011, Elop sent employees an internal memo that leaked almost immediately.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.407,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "memo",
+          "resolved": "memo",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "In February 2011, Elop sent employees an internal memo that leaked almost immediately.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.407,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 165.513,
+      "end": 169.864,
+      "text": "In it, he compared Nokia to a man standing on a burning oil platform forced to choose how to jump.",
+      "overlap": false,
+      "tone_valence": 0.476,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "forced to choose how to jump (implies difficulty and risk)",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.476,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "a man standing on a burning oil platform",
+          "resolved": "unresolved",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "no evaluation",
+          "text_confidence": 0.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.476,
+          "tone_conflict": false,
+          "sentiment_confidence": 0.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 171.43,
+      "end": 179.782,
+      "text": "It was a brutally honest description of Nokia's red, that same day, by every customer, every phone carrier, and every developer on the entire planet.",
+      "overlap": false,
+      "tone_valence": 0.226,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "brutally honest description",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.226,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "every customer",
+          "resolved": "every customer",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "by every customer",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.226,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "every phone carrier",
+          "resolved": "every phone carrier",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "by every phone carrier",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.226,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "every developer",
+          "resolved": "every developer",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "by every developer",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.226,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 180.162,
+      "end": 185.73,
+      "text": "Days later, Nokia announced it would abandon Symbian entirely and build its future on Microsoft's Windows Phone.",
+      "overlap": false,
+      "tone_valence": 0.493,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "abandon Symbian entirely",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.493,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "Symbian",
+          "resolved": "Symbian",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "abandon Symbian entirely",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.493,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "Microsoft's Windows Phone",
+          "resolved": "Microsoft's Windows Phone",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "build its future on",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.493,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 185.87,
+      "end": 189.816,
+      "text": "MeeGo, the system some engineers'd was the real answer, was quietly shelved.",
+      "overlap": false,
+      "tone_valence": 0.537,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "MeeGo",
+          "resolved": "MeeGo",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "was quietly shelved",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.537,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "the system",
+          "resolved": "MeeGo",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "was quietly shelved",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.537,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "some engineers'd",
+          "resolved": "unresolved",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "MeeGo, the system some engineers'd was the real answer, was quietly shelved.",
+          "text_confidence": 0.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.537,
+          "tone_conflict": false,
+          "sentiment_confidence": 0.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 190.436,
+      "end": 191.999,
+      "text": "But here's the part that mattered most.",
+      "overlap": false,
+      "tone_valence": 0.599,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "the part",
+          "resolved": "unresolved",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "But here's the part that mattered most.",
+          "text_confidence": 0.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.599,
+          "tone_conflict": false,
+          "sentiment_confidence": 0.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 192.62,
+      "end": 195.143,
+      "text": "The new Windows Phones weren't ready yet.",
+      "overlap": false,
+      "tone_valence": 0.399,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "the new Windows Phones",
+          "resolved": "Windows Phones",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "weren't ready yet",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.399,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 195.123,
+      "end": 199.749,
+      "text": "Nokia had just told the entire world its current products were already a dead end.",
+      "overlap": false,
+      "tone_valence": 0.429,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "already a dead end",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.429,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 200.19,
+      "end": 203.214,
+      "text": "Sales of Nokia's existing phones collapsed almost overnight.",
+      "overlap": false,
+      "tone_valence": 0.28,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "Nokia's existing phones",
+          "resolved": "Nokia's existing phones",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "Sales of Nokia's existing phones collapsed almost overnight.",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.28,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 203.594,
+      "end": 205.276,
+      "text": "Carriers quietly stopped promoting them.",
+      "overlap": false,
+      "tone_valence": 0.349,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "them",
+          "resolved": "Nokia's existing phones",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "Sales of Nokia's existing phones collapsed almost overnight.",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.349,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 205.597,
+      "end": 207.339,
+      "text": "Developers stopped building for them entire.",
+      "overlap": false,
+      "tone_valence": 0.421,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "developers",
+          "resolved": "developers",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "stopped building for them",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.421,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "them",
+          "resolved": "Nokia's existing phones",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "stopped building for them",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.421,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 207.359,
+      "end": 209.903,
+      "text": "It was now selling a product it had publicly declared obsolete.",
+      "overlap": false,
+      "tone_valence": 0.379,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "selling a product it had publicly declared obsolete",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.379,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 210.203,
+      "end": 216.591,
+      "text": "Within roughly two years, Nokia's smartphone market share, once completely dominant, had fallen to the low single digits.",
+      "overlap": false,
+      "tone_valence": 0.417,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Nokia's smartphone market share",
+          "resolved": "Nokia's smartphone market share",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "had fallen to the low single digits",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.417,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 216.611,
+      "end": 220.196,
+      "text": "Analysts later called it one of the fastest collapses in modern corporate history.",
+      "overlap": false,
+      "tone_valence": 0.523,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "collapses in modern corporate history",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.523,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 220.216,
+      "end": 229.705,
+      "text": "When the Windows phones finally did arrive, Reviewers actually liked the hardware, but almost no developers had built ABAT form, and customers noticed that gap immediately, every single day.",
+      "overlap": false,
+      "tone_valence": 0.494,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Reviewers",
+          "resolved": "Reviewers",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "Reviewers actually liked the hardware",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.494,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "developers",
+          "resolved": "developers",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "almost no developers had built ABAT form",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.494,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "customers",
+          "resolved": "customers",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "customers noticed that gap immediately",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.494,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "the Windows phones",
+          "resolved": "the Windows phones",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "When the Windows phones finally did arrive",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.494,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "ABAT form",
+          "resolved": "ABAT form",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "almost no developers had built ABAT form",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.494,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 230.146,
+      "end": 231.967,
+      "text": "Revenue kept falling year after year.",
+      "overlap": false,
+      "tone_valence": 0.4,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Revenue",
+          "resolved": "Revenue",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "kept falling",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.4,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 232.287,
+      "end": 234.089,
+      "text": "Credit ratings were downgraded repeatedly.",
+      "overlap": false,
+      "tone_valence": 0.35,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "Credit ratings",
+          "resolved": "Credit ratings",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "were downgraded repeatedly",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.35,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 234.349,
+      "end": 236.331,
+      "text": "Tens of thousands of employees lost jobs.",
+      "overlap": false,
+      "tone_valence": 0.211,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "tens of thousands of employees",
+          "resolved": "employees",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "lost jobs",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.211,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 236.611,
+      "end": 238.613,
+      "text": "Factories and research centers quietly shut.",
+      "overlap": false,
+      "tone_valence": 0.392,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "Factories",
+          "resolved": "Factories",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "shut",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.392,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "research centers",
+          "resolved": "research centers",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "shut",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.392,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 238.913,
+      "end": 239.834,
+      "text": "Doors shut for good.",
+      "overlap": false,
+      "tone_valence": 0.386,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "Doors",
+          "resolved": "factories and research centers",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "Doors shut for good",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.386,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 240.454,
+      "end": 248.881,
+      "text": "In September 2013, Microsoft agreed to buy Nokia Nokia's entire phone business outright for roughly $7 billion.",
+      "overlap": false,
+      "tone_valence": 0.457,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Microsoft agreed to buy Nokia's entire phone business",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.457,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "Microsoft",
+          "resolved": "Microsoft",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Microsoft agreed to buy Nokia's entire phone business",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.457,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 249.422,
+      "end": 250.343,
+      "text": "For a company that...",
+      "overlap": false,
+      "tone_valence": 0.522,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "company",
+          "resolved": "unresolved",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "For a company that...",
+          "text_confidence": 0.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.522,
+          "tone_conflict": false,
+          "sentiment_confidence": 0.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 250.363,
+      "end": 251.944,
+      "text": "So what actually killed Nokia?",
+      "overlap": false,
+      "tone_valence": 0.207,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "Doors shut for good.",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.207,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 251.924,
+      "end": 253.366,
+      "text": "It wasn't simply the iPhone.",
+      "overlap": false,
+      "tone_valence": 0.33,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "the iPhone",
+          "resolved": "the iPhone",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "For a company that... (previous turn) and \"killed\" implies criticism",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.33,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 253.626,
+      "end": 256.59,
+      "text": "Nokia had touchscreen prototypes before the iPhone even existed.",
+      "overlap": false,
+      "tone_valence": 0.45,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "had touchscreen prototypes",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.45,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 256.95,
+      "end": 258.312,
+      "text": "It wasn't a lack of talent, either.",
+      "overlap": false,
+      "tone_valence": 0.433,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "talent",
+          "resolved": "talent",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "It wasn't a lack of talent, either.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.433,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 258.592,
+      "end": 259.814,
+      "text": "The warnings were already there.",
+      "overlap": false,
+      "tone_valence": 0.493,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "the warnings",
+          "resolved": "the warnings",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "The warnings were already there.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.493,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 260.895,
+      "end": 265.221,
+      "text": "What killed Nokia was a decision to keep protecting the platform that had made it dominant.",
+      "overlap": false,
+      "tone_valence": 0.319,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "killed Nokia",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.319,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "the platform",
+          "resolved": "the platform",
+          "resolution": "unresolved",
+          "sentiment": "positive",
+          "evidence": "had made it dominant",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.319,
+          "tone_conflict": true,
+          "sentiment_confidence": 0.75
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 265.681,
+      "end": 273.03,
+      "text": "Long after the market had stopped competing on the very thing that platform was good at, every choice that followed repeated the exact same logic.",
+      "overlap": false,
+      "tone_valence": 0.516,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "the platform",
+          "resolved": "the platform that had made it dominant",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "repeated the exact same logic",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.516,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "every choice",
+          "resolved": "every choice that followed",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "repeated the exact same logic",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.516,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 273.231,
+      "end": 275.273,
+      "text": "Protect this year's profit, painful rebuild.",
+      "overlap": false,
+      "tone_valence": 0.366,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "this year's profit",
+          "resolved": "this year's profit",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "painful rebuild",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.366,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "rebuild",
+          "resolved": "rebuild",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "painful rebuild",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.366,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 275.714,
+      "end": 277.476,
+      "text": "Wait for more certainty.",
+      "overlap": false,
+      "tone_valence": 0.383,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "what killed Nokia",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.383,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 277.456,
+      "end": 279.72,
+      "text": "that would never actually arrive in time to matter.",
+      "overlap": false,
+      "tone_valence": 0.367,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "certainty",
+          "resolved": "certainty",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "Wait for more certainty.",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.367,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 280.822,
+      "end": 289.599,
+      "text": "And when the rebuild finally came, it arrived as three competing systems running at once, which in practice functions as building no system at all.",
+      "overlap": false,
+      "tone_valence": 0.461,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "what killed Nokia was a decision",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.461,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "the platform",
+          "resolved": "the platform",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "protect the platform",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.461,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "the rebuild",
+          "resolved": "the rebuild",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "painful rebuild",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.461,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "three competing systems",
+          "resolved": "three competing systems",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "three competing systems running at once",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.461,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "no system",
+          "resolved": "no system",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "functions as building no system at all",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.461,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 290.16,
+      "end": 293.065,
+      "text": "The prototypes that never shipped were never really the failure.",
+      "overlap": false,
+      "tone_valence": 0.341,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "the prototypes that never shipped",
+          "resolved": "the prototypes that never shipped",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "The prototypes that never shipped were never really the failure.",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.341,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "the failure",
+          "resolved": "the failure",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "The prototypes that never shipped were never really the failure.",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.341,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 293.826,
+      "end": 300.038,
+      "text": "They were proof that the company already understood the threat years before it was willing to act on that knowledge.",
+      "overlap": false,
+      "tone_valence": 0.31,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "they",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "the company already understood the threat years before it was willing to act on that knowledge",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.31,
+          "tone_conflict": true,
+          "sentiment_confidence": 0.75
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 300.018,
+      "end": 305.948,
+      "text": "Announcing the death of your current product before its replacement actually exists doesn't speed up a transition.",
+      "overlap": false,
+      "tone_valence": 0.426,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "the death of your current product",
+          "resolved": "the death of your current product",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "doesn't speed up a transition",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.426,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "your current product",
+          "resolved": "your current product",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "doesn't speed up a transition",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.426,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "its replacement",
+          "resolved": "its replacement",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "before its replacement actually exists",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.426,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 306.448,
+      "end": 309.854,
+      "text": "It simply removes the bridge you were still standing on in front of everyone.",
+      "overlap": false,
+      "tone_valence": 0.46,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "the bridge you were still standing on",
+          "resolved": "the current product",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "removes the bridge you were still standing on",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.46,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 311.377,
+      "end": 313.139,
+      "text": "And this pattern isn't unique to Nokia.",
+      "overlap": false,
+      "tone_valence": 0.47,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "And this pattern isn't unique to Nokia.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.47,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 313.4,
+      "end": 320.271,
+      "text": "It repeats whenever a dominant company treats its current advantage as something to defend rather than something it must be willing to replace itself.",
+      "overlap": false,
+      "tone_valence": 0.499,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "a dominant company",
+          "resolved": "unresolved",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "whenever a dominant company treats its current advantage as something to defend rather than something it must be willing to replace itself",
+          "text_confidence": 0.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.499,
+          "tone_conflict": false,
+          "sentiment_confidence": 0.0
+        },
+        {
+          "surface": "its current advantage",
+          "resolved": "unresolved",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "whenever a dominant company treats its current advantage as something to defend rather than something it must be willing to replace itself",
+          "text_confidence": 0.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.499,
+          "tone_conflict": false,
+          "sentiment_confidence": 0.0
+        },
+        {
+          "surface": "it",
+          "resolved": "unresolved",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "whenever a dominant company treats its current advantage as something to defend rather than something it must be willing to replace itself",
+          "text_confidence": 0.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.499,
+          "tone_conflict": false,
+          "sentiment_confidence": 0.0
+        },
+        {
+          "surface": "something to defend",
+          "resolved": "unresolved",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "whenever a dominant company treats its current advantage as something to defend rather than something it must be willing to replace itself",
+          "text_confidence": 0.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.499,
+          "tone_conflict": false,
+          "sentiment_confidence": 0.0
+        },
+        {
+          "surface": "something it must be willing to replace itself",
+          "resolved": "unresolved",
+          "resolution": "unresolved",
+          "sentiment": "positive",
+          "evidence": "whenever a dominant company treats its current advantage as something to defend rather than something it must be willing to replace itself",
+          "text_confidence": 0.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.499,
+          "tone_conflict": false,
+          "sentiment_confidence": 0.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 320.723,
+      "end": 329.741,
+      "text": "The companies that survived these moments let their own future product compete with their current one, early, before a competitor gets the chance to do it for them.",
+      "overlap": false,
+      "tone_valence": 0.542,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "companies",
+          "resolved": "companies",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "let their own future product compete with their current one",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.542,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "current one",
+          "resolved": "current one",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "before a competitor gets the chance to do it for them",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.542,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "competitor",
+          "resolved": "competitor",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "before a competitor gets the chance to do it for them",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.542,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 330.262,
+      "end": 333.809,
+      "text": "Nokia wasn't ultimately a failure of hardware or even of talent.",
+      "overlap": false,
+      "tone_valence": 0.43,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Nokia wasn't ultimately a failure of hardware or even of talent.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.43,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 334.31,
+      "end": 340.723,
+      "text": "It was a failure of willingness, dressed up for years as careful, responsible corporate discipline.",
+      "overlap": false,
+      "tone_valence": 0.369,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "willingness",
+          "resolved": "willingness",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "dressed up for years as careful, responsible corporate discipline",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.369,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "corporate discipline",
+          "resolved": "corporate discipline",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "dressed up for years as careful, responsible corporate discipline",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.369,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 340.703,
+      "end": 344.307,
+      "text": "So a company lost its entire market in five years.",
+      "overlap": false,
+      "tone_valence": 0.364,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "a company",
+          "resolved": "unresolved",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "So a company lost its entire market in five years.",
+          "text_confidence": 0.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.364,
+          "tone_conflict": false,
+          "sentiment_confidence": 0.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 344.868,
+      "end": 349.793,
+      "text": "And no competitor ever had to steal a single line of its technology to make that happen.",
+      "overlap": false,
+      "tone_valence": 0.463,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "a company",
+          "resolved": "a company",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "So a company lost its entire market in five years.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.463,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "its technology",
+          "resolved": "its technology",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "And no competitor ever had to steal a single line of its technology to make that happen.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.463,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 350.894,
+      "end": 354.038,
+      "text": "Because the technology was never really the thing Nokia refused to give up.",
+      "overlap": false,
+      "tone_valence": 0.354,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "Nokia",
+          "resolved": "Nokia",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "Nokia refused to give up",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.354,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 354.478,
+      "end": 356.12,
+      "text": "The business model protecting it was.",
+      "overlap": false,
+      "tone_valence": 0.559,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "the business model",
+          "resolved": "the business model",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "protecting it was",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.559,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 356.681,
+      "end": 360.125,
+      "text": "And that decision was made in ordinary meetings by ordinary people.",
+      "overlap": false,
+      "tone_valence": 0.407,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "decision",
+          "resolved": "decision",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "The decision was made in ordinary meetings by ordinary people.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.407,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "meetings",
+          "resolved": "meetings",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "The decision was made in ordinary meetings by ordinary people.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.407,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "people",
+          "resolved": "people",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "The decision was made in ordinary meetings by ordinary people.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.407,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 360.365,
+      "end": 361.967,
+      "text": "This has been Project Autopsy.",
+      "overlap": false,
+      "tone_valence": 0.543,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Project Autopsy",
+          "resolved": "Project Autopsy",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "This has been Project Autopsy.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.543,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 362.788,
+      "end": 364.99,
+      "text": "The decision is always the first thing to die.",
+      "overlap": false,
+      "tone_valence": 0.203,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "the decision",
+          "resolved": "the decision",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "the first thing to die",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.203,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "by_speaker": {
+      "Speaker 1": {
+        "Nokia": {
+          "positive": 9,
+          "negative": 15,
+          "neutral": 10,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "its entire smartphone empire": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "a single rival": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "the technology it had already built years earlier": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "phones": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "paper": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "rubber boots": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "entire industries": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "a new one": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "engineers": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 2,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "durability": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "signal": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "fundamentals": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "Nokia's mobile phone technology": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "positive"
+        },
+        "Nokia phones": {
+          "positive": 2,
+          "negative": 0,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "positive"
+        },
+        "Helsinki apartments": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "villages with no running water": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "mobile phones": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "the entire planet": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "Symbian": {
+          "positive": 0,
+          "negative": 4,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "Nokia's operating system (Symbian)": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "positive"
+        },
+        "unresolved": {
+          "positive": 1,
+          "negative": 4,
+          "neutral": 12,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "Nokia's touchscreen smartphone": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "Nokia's product line": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "positive"
+        },
+        "leadership": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "Apple": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 2,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "iPhone": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 2,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "Nokia's leadership": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "the iPhone": {
+          "positive": 0,
+          "negative": 2,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "Nokia's own leadership": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "ecosystem": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "developers": {
+          "positive": 0,
+          "negative": 2,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "an enormous new audience": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "positive"
+        },
+        "Google": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "Android": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "any manufacturer": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "software platforms": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "MeeGo": {
+          "positive": 0,
+          "negative": 3,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "the company": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "Stephen Elop": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 2,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "employees": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "tie"
+        },
+        "memo": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "every customer": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "every phone carrier": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "every developer": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "Microsoft's Windows Phone": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "Windows Phones": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "Nokia's existing phones": {
+          "positive": 0,
+          "negative": 3,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "Nokia's smartphone market share": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "Reviewers": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "positive"
+        },
+        "customers": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "the Windows phones": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "ABAT form": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "Revenue": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "Credit ratings": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "Factories": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "research centers": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "factories and research centers": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "Microsoft": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "talent": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "the warnings": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "the platform": {
+          "positive": 1,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "mixed"
+        },
+        "the platform that had made it dominant": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "every choice that followed": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "this year's profit": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "rebuild": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "certainty": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "the rebuild": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "three competing systems": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "no system": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "the prototypes that never shipped": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "the failure": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "the death of your current product": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "your current product": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "its replacement": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "the current product": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "companies": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "positive"
+        },
+        "current one": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "competitor": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "willingness": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "corporate discipline": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "a company": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "its technology": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "the business model": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "decision": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "meetings": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "people": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "Project Autopsy": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "the decision": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        }
+      }
+    }
+  }
+}

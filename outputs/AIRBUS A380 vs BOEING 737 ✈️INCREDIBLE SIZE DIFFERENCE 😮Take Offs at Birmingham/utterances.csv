@@ -1,0 +1,9 @@
+﻿source,speaker,start,end,text,overlap,surface,resolved,resolution,sentiment,evidence,text_confidence,tone_valence,tone_polarity,tone_conflict,sentiment_confidence
+https://www.youtube.com/watch?v=J9izomeidpk,Speaker 1,29.748,32.115,I think that might be it for the C17.,False,C17,C17,resolved,neutral,I think that might be it for the C17.,1.0,0.582,neutral,False,1.0
+https://www.youtube.com/watch?v=J9izomeidpk,Speaker 1,37.01,39.277,Departing next Ryanair going to Faro.,False,Ryanair,Ryanair,resolved,neutral,Departing next Ryanair going to Faro.,1.0,0.495,neutral,False,1.0
+https://www.youtube.com/watch?v=J9izomeidpk,Speaker 1,37.01,39.277,Departing next Ryanair going to Faro.,False,Faro,Faro,resolved,neutral,Departing next Ryanair going to Faro.,1.0,0.495,neutral,False,1.0
+https://www.youtube.com/watch?v=J9izomeidpk,Speaker 1,40.902,43.048,And then it'll be the A380 to Dubai.,False,the A380,the A380,resolved,neutral,And then it'll be the A380 to Dubai.,1.0,0.515,neutral,False,1.0
+https://www.youtube.com/watch?v=J9izomeidpk,Speaker 1,40.902,43.048,And then it'll be the A380 to Dubai.,False,Dubai,Dubai,resolved,neutral,And then it'll be the A380 to Dubai.,1.0,0.515,neutral,False,1.0
+https://www.youtube.com/watch?v=J9izomeidpk,Speaker 1,132.668,134.916,Back to Bryce for the Globemaster.,False,Bryce,Bryce,resolved,neutral,Back to Bryce,1.0,0.608,neutral,False,1.0
+https://www.youtube.com/watch?v=J9izomeidpk,Speaker 1,132.668,134.916,Back to Bryce for the Globemaster.,False,the Globemaster,the Globemaster,resolved,neutral,Back to Bryce for the Globemaster,1.0,0.608,neutral,False,1.0
+https://www.youtube.com/watch?v=J9izomeidpk,Speaker 1,252.582,256.213,Thank you.,False,it,C17,resolved,neutral,I think that might be it for the C17.,1.0,0.404,neutral,False,1.0

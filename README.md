@@ -8,6 +8,7 @@ The subjects are whatever people actually talk about. One sentence can praise on
 
 For each run, the output folder contains:
 
+- `result.csv` — the same detail as `result.json`, one row per sentence and subject, opened in a spreadsheet
 - `result.json` — speakers, timestamps, quotes, subjects, scores, and tone
 - `utterances.csv` — one row per speaker, sentence, and subject
 - `summary.csv` — counts and the dominant label per speaker and subject
@@ -74,6 +75,12 @@ Or a public YouTube link. The folder name is the video title. Quote the link in 
 ```
 
 A title such as `Boeing vs Airbus In 2026` is saved under `outputs\Boeing vs Airbus In 2026`. Add `-o outputs\my-name` when you want a different folder.
+
+Open the finished runs in the browser:
+
+```powershell
+.\.venv\Scripts\streamlit run dashboard.py
+```
 
 Useful flags:
 

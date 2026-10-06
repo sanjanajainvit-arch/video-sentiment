@@ -1,0 +1,8 @@
+﻿source,speaker,target,positive,negative,neutral,mixed,dominant,mentions
+examples\sample_turns.json,Speaker 1,Northwind,1,2,0,0,negative,3
+examples\sample_turns.json,Speaker 1,delays,0,1,0,0,negative,1
+examples\sample_turns.json,Speaker 1,offices,0,0,1,0,neutral,1
+examples\sample_turns.json,Speaker 2,Northwind,0,1,0,0,negative,1
+examples\sample_turns.json,Speaker 2,Contoso,0,1,0,0,negative,1
+examples\sample_turns.json,Speaker 3,Northwind,1,0,0,0,positive,1
+examples\sample_turns.json,Speaker 3,Contoso,0,0,1,0,neutral,1

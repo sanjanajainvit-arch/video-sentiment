@@ -1,0 +1,1480 @@
+{
+  "source": "https://youtu.be/DIeSOIRcyng",
+  "duration_sec": 297.541,
+  "speakers": [
+    "Speaker 1"
+  ],
+  "utterances": [
+    {
+      "speaker": "Speaker 1",
+      "start": 4.351,
+      "end": 9.578,
+      "text": "Boeing has reported 143 commercial aircraft deliveries in the first quarter of this year.",
+      "overlap": false,
+      "tone_valence": 0.549,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Boeing",
+          "resolved": "Boeing",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Boeing has reported",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.549,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "commercial aircraft",
+          "resolved": "commercial aircraft",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "143 commercial aircraft deliveries",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.549,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "this year",
+          "resolved": "this year",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "first quarter of this year",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.549,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 9.959,
+      "end": 16.087,
+      "text": "That not only exceeds forecasting, but it does really mark a pivotal step in the ongoing recovery of the business.",
+      "overlap": false,
+      "tone_valence": 0.576,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Boeing",
+          "resolved": "Boeing",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "exceeds forecasting, mark a pivotal step",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.576,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "the business",
+          "resolved": "the business",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "pivotal step in the ongoing recovery",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.576,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 16.528,
+      "end": 31.388,
+      "text": "Dominated by the heavy deliveries of the most important single-aisle 737 MAX product and complemented by the 787, this Q1 performance I'm going to talk to you about today and dig a little deeper into sees it outpace Airbus for aircraft deliveries in Q1.",
+      "overlap": false,
+      "tone_valence": 0.715,
+      "tone_polarity": "positive",
+      "targets": [
+        {
+          "surface": "737 MAX",
+          "resolved": "737 MAX",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "heavy deliveries of the most important single-aisle 737 MAX product",
+          "text_confidence": 1.0,
+          "tone_polarity": "positive",
+          "tone_valence": 0.715,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "787",
+          "resolved": "787",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "complemented by the 787",
+          "text_confidence": 1.0,
+          "tone_polarity": "positive",
+          "tone_valence": 0.715,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "Airbus",
+          "resolved": "Airbus",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "sees it outpace Airbus for aircraft deliveries in Q1",
+          "text_confidence": 1.0,
+          "tone_polarity": "positive",
+          "tone_valence": 0.715,
+          "tone_conflict": true,
+          "sentiment_confidence": 0.75
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 31.368,
+      "end": 72.917,
+      "text": "The 143 deliveries in the first quarter Thanks for watching.",
+      "overlap": false,
+      "tone_valence": 0.547,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "the 143 deliveries in the first quarter",
+          "resolved": "unresolved",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "The 143 deliveries in the first quarter",
+          "text_confidence": 0.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.547,
+          "tone_conflict": false,
+          "sentiment_confidence": 0.0
+        },
+        {
+          "surface": "Airbus",
+          "resolved": "resolved",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "sees it outpace Airbus for aircraft deliveries in Q1",
+          "text_confidence": 0.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.547,
+          "tone_conflict": false,
+          "sentiment_confidence": 0.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 72.897,
+      "end": 79.609,
+      "text": "For Boeing, starting the year strong really did set the tone, and it was a pace it was able to maintain throughout the first three months.",
+      "overlap": false,
+      "tone_valence": 0.659,
+      "tone_polarity": "positive",
+      "targets": [
+        {
+          "surface": "Boeing",
+          "resolved": "Boeing",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "starting the year strong really did set the tone",
+          "text_confidence": 1.0,
+          "tone_polarity": "positive",
+          "tone_valence": 0.659,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "it",
+          "resolved": "Boeing",
+          "resolution": "unresolved",
+          "sentiment": "positive",
+          "evidence": "starting the year strong really did set the tone",
+          "text_confidence": 1.0,
+          "tone_polarity": "positive",
+          "tone_valence": 0.659,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 79.95,
+      "end": 86.341,
+      "text": "With an impressive 46 deliveries in January, that outpaced and more than doubled the 19 at Airbus.",
+      "overlap": false,
+      "tone_valence": 0.607,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Boeing",
+          "resolved": "Boeing",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "impressive 46 deliveries",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.607,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "Airbus",
+          "resolved": "Airbus",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "19 at Airbus",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.607,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 86.782,
+      "end": 95.057,
+      "text": "In February, the business added 51 jets to airlines, and the momentum was sustained early on, even with ongoing supply chain pressures.",
+      "overlap": false,
+      "tone_valence": 0.591,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "the business",
+          "resolved": "Boeing",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "the business added 51 jets to airlines",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.591,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "airlines",
+          "resolved": "airlines",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "the business added 51 jets to airlines",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.591,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "the momentum",
+          "resolved": "unresolved",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "the momentum was sustained early on",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.591,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "supply chain pressures",
+          "resolved": "unresolved",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "even with ongoing supply chain pressures",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.591,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 95.037,
+      "end": 99.242,
+      "text": "March, however, did see a slower delivery output, dropping back down to 46.",
+      "overlap": false,
+      "tone_valence": 0.475,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "March",
+          "resolved": "March",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "March, however, did see a slower delivery output, dropping back down to 46.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.475,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "Boeing",
+          "resolved": "Boeing",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "March, however, did see a slower delivery output, dropping back down to 46.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.475,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 99.922,
+      "end": 101.044,
+      "text": "This wasn't a shock.",
+      "overlap": false,
+      "tone_valence": 0.301,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "this",
+          "resolved": "the slower delivery output in March",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "did see a slower delivery output",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.301,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 101.104,
+      "end": 106.089,
+      "text": "Boeing had already flagged obstacles in the rework of some of its undelivered MAX aircraft.",
+      "overlap": false,
+      "tone_valence": 0.474,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Boeing",
+          "resolved": "Boeing",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Boeing had already flagged obstacles",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.474,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "the rework of some of its undelivered MAX aircraft",
+          "resolved": "the rework of some of its undelivered MAX aircraft",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "Boeing had already flagged obstacles in the rework",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.474,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "the MAX aircraft",
+          "resolved": "the MAX aircraft",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "Boeing had already flagged obstacles in the rework of some of its undelivered MAX aircraft",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.474,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 106.51,
+      "end": 113.698,
+      "text": "Away from the MAX, widebody contributions are always valuable in making up the quarterly numbers, with the delivery of 15 787s.",
+      "overlap": false,
+      "tone_valence": 0.589,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "787",
+          "resolved": "787",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "delivery of 15 787s",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.589,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "MAX",
+          "resolved": "MAX",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Away from the MAX",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.589,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 113.778,
+      "end": 120.285,
+      "text": "These planes key for many airlines' long-haul renewal efforts, and growth as well, in a push to become more efficient.",
+      "overlap": false,
+      "tone_valence": 0.621,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "these planes",
+          "resolved": "787s",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "key for many airlines' long-haul renewal efforts, and growth as well",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.621,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "many airlines",
+          "resolved": "unresolved",
+          "resolution": "unresolved",
+          "sentiment": "positive",
+          "evidence": "key for many airlines' long-haul renewal efforts, and growth as well",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.621,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 120.265,
+      "end": 127.702,
+      "text": "Boeing continued to deliver aircraft from the 777 program, the jet proving valuable as a freighter, even on the 767 platform.",
+      "overlap": false,
+      "tone_valence": 0.627,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Boeing",
+          "resolved": "Boeing",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "Boeing continued to deliver aircraft",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.627,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "the 777 program",
+          "resolved": "the 777 program",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "the jet proving valuable",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.627,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "the jet",
+          "resolved": "the jet",
+          "resolution": "unresolved",
+          "sentiment": "positive",
+          "evidence": "the jet proving valuable",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.627,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "the 767 platform",
+          "resolved": "the 767 platform",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "even on the 767 platform",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.627,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 128.043,
+      "end": 132.072,
+      "text": "These models accounting for and cover the output in the long haul segment.",
+      "overlap": false,
+      "tone_valence": 0.554,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "these models",
+          "resolved": "787s and 777 program",
+          "resolution": "unresolved",
+          "sentiment": "positive",
+          "evidence": "valuable in making up the quarterly numbers, with the delivery of 15 787s",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.554,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "the output",
+          "resolved": "the output in the long haul segment",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "accounting for and cover the output",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.554,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 132.493,
+      "end": 136.722,
+      "text": "In just the first three months of the year, Boeing did outperform its competitor Airbus.",
+      "overlap": false,
+      "tone_valence": 0.602,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Boeing",
+          "resolved": "Boeing",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "did outperform",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.602,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "Airbus",
+          "resolved": "Airbus",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "its competitor",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.602,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 136.702,
+      "end": 139.49,
+      "text": "And that really for the first time on a sustained basis.",
+      "overlap": false,
+      "tone_valence": 0.536,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "the first time on a sustained basis",
+          "resolved": "the first time on a sustained basis",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "And that really for the first time on a sustained basis",
+          "text_confidence": 0.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.536,
+          "tone_conflict": false,
+          "sentiment_confidence": 0.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 139.931,
+      "end": 151.723,
+      "text": "Airbus itself has already been hampered by engine supply chain bottlenecks and the delayed output rates across key programs due to persistent issues and unsolved quality defects that it's trying to work through.",
+      "overlap": false,
+      "tone_valence": 0.434,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Airbus",
+          "resolved": "Airbus",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "hampered by engine supply chain bottlenecks and the delayed output rates across key programs due to persistent issues and unsolved quality defects",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.434,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "engine supply chain bottlenecks",
+          "resolved": "engine supply chain bottlenecks",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "hampered by engine supply chain bottlenecks",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.434,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "the delayed output rates",
+          "resolved": "the delayed output rates",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "the delayed output rates across key programs due to persistent issues and unsolved quality defects",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.434,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "persistent issues",
+          "resolved": "persistent issues",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "due to persistent issues and unsolved quality defects",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.434,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "unsolved quality defects",
+          "resolved": "unsolved quality defects",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "due to persistent issues and unsolved quality defects",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.434,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 151.703,
+      "end": 169.375,
+      "text": "Thanks for watching.",
+      "overlap": false,
+      "tone_valence": 0.518,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "watching",
+          "resolved": "watching",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Thanks for watching.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.518,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 169.355,
+      "end": 184.158,
+      "text": "Either way, the 10% year-over-year growth means that Boeing has been able to make up for lost ground over the 2020s, but it is only the beginning, with safety crises, cash issues, and production groundings has seen its counterparts soar ahead in more ways than one.",
+      "overlap": false,
+      "tone_valence": 0.459,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Boeing",
+          "resolved": "Boeing",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "make up for lost ground",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.459,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "its counterparts",
+          "resolved": "Airbus",
+          "resolution": "unresolved",
+          "sentiment": "positive",
+          "evidence": "soar ahead",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.459,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 184.459,
+      "end": 187.363,
+      "text": "That is especially felt in the narrowbody sector.",
+      "overlap": false,
+      "tone_valence": 0.447,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "narrowbody sector",
+          "resolved": "narrowbody sector",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "That is especially felt in the narrowbody sector.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.447,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 187.343,
+      "end": 189.286,
+      "text": "Boeing is not intending to hit the brakes.",
+      "overlap": false,
+      "tone_valence": 0.344,
+      "tone_polarity": "negative",
+      "targets": [
+        {
+          "surface": "Boeing",
+          "resolved": "Boeing",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "Boeing is not intending to hit the brakes",
+          "text_confidence": 1.0,
+          "tone_polarity": "negative",
+          "tone_valence": 0.344,
+          "tone_conflict": true,
+          "sentiment_confidence": 0.75
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 189.306,
+      "end": 200.922,
+      "text": "Despite some concerns across the last month, it's hopeful that it will rebound throughout this year, with what it describes as a quality-first production approach that's crucial to its turnaround efforts actually sticking the landing.",
+      "overlap": false,
+      "tone_valence": 0.64,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "it",
+          "resolved": "Boeing",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "it will rebound",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.64,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "it",
+          "resolved": "Boeing",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "it will rebound",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.64,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "a quality-first production approach",
+          "resolved": "a quality-first production approach",
+          "resolution": "unresolved",
+          "sentiment": "positive",
+          "evidence": "crucial to its turnaround efforts",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.64,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 201.402,
+      "end": 234.31,
+      "text": "Leaning on lessons learned from the MAX crashes, the door plug incidents, and intervention from the FAA, the manufacturer will work closely to ramp up production of its MAX from the currently restricted 42 units to a hoped-for Thanks for watching.",
+      "overlap": false,
+      "tone_valence": 0.553,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Boeing",
+          "resolved": "Boeing",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "ramp up production of its MAX",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.553,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "the MAX",
+          "resolved": "the MAX",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "ramp up production of its MAX",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.553,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "the FAA",
+          "resolved": "the FAA",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "intervention from the FAA",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.553,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 234.29,
+      "end": 241.498,
+      "text": "As customers await their aircraft, delays create additional pressure points for all parties, and especially on the side of Boeing financially.",
+      "overlap": false,
+      "tone_valence": 0.433,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Boeing",
+          "resolved": "Boeing",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "delays create additional pressure points for all parties, and especially on the side of Boeing financially",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.433,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "customers",
+          "resolved": "customers",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "As customers await their aircraft",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.433,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "aircraft",
+          "resolved": "aircraft",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "As customers await their aircraft",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.433,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "parties",
+          "resolved": "parties",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "delays create additional pressure points for all parties",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.433,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 241.538,
+      "end": 248.405,
+      "text": "Therefore, proving that quality has improved is a key way to navigating the remaining pressure points for this manufacturer.",
+      "overlap": false,
+      "tone_valence": 0.559,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "quality",
+          "resolved": "quality",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "proving that quality has improved",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.559,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "this manufacturer",
+          "resolved": "Boeing",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "this manufacturer",
+          "text_confidence": 0.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.559,
+          "tone_conflict": false,
+          "sentiment_confidence": 0.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 248.825,
+      "end": 255.592,
+      "text": "Either way, 143 deliveries in Q1 is something to be commended, let alone actually outpacing Airbus.",
+      "overlap": false,
+      "tone_valence": 0.634,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Boeing",
+          "resolved": "Boeing",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "something to be commended",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.634,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "Airbus",
+          "resolved": "Airbus",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "outpacing",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.634,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 255.933,
+      "end": 264.281,
+      "text": "While that may not continue for the remainder of the year, as its European rival sorts out many hopefully of its own challenges in production.",
+      "overlap": false,
+      "tone_valence": 0.575,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Boeing",
+          "resolved": "Boeing",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "as its European rival sorts out many hopefully of its own challenges in production",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.575,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "its European rival",
+          "resolved": "Airbus",
+          "resolution": "unresolved",
+          "sentiment": "neutral",
+          "evidence": "as its European rival sorts out many hopefully of its own challenges in production",
+          "text_confidence": 0.9,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.575,
+          "tone_conflict": false,
+          "sentiment_confidence": 0.9
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 264.321,
+      "end": 271.209,
+      "text": "It's encouraging to see the gap between the two planemakers, which for so long had been so far apart, come closer together.",
+      "overlap": false,
+      "tone_valence": 0.63,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "the gap",
+          "resolved": "the gap between the two planemakers",
+          "resolution": "unresolved",
+          "sentiment": "positive",
+          "evidence": "encouraging to see",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.63,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "the two planemakers",
+          "resolved": "the two planemakers",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "the gap between the two planemakers",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.63,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 271.489,
+      "end": 277.796,
+      "text": "Because at the end of the day, two healthy leading manufacturers in Airbus and Boeing is better for everyone.",
+      "overlap": false,
+      "tone_valence": 0.552,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Airbus",
+          "resolved": "Airbus",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "encouraging to see the gap between the two planemakers, which for so long had been so far apart, come closer together.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.552,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "Boeing",
+          "resolved": "Boeing",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "two healthy leading manufacturers in Airbus and Boeing is better for everyone",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.552,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 278.077,
+      "end": 287.567,
+      "text": "Thanks for watching, leave your thoughts down below in the comments, and I'll see you back here tomorrow.",
+      "overlap": false,
+      "tone_valence": 0.657,
+      "tone_polarity": "positive",
+      "targets": [
+        {
+          "surface": "you",
+          "resolved": "the speaker",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Thanks for watching",
+          "text_confidence": 1.0,
+          "tone_polarity": "positive",
+          "tone_valence": 0.657,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 294.972,
+      "end": 297.244,
+      "text": "Bye.",
+      "overlap": false,
+      "tone_valence": 0.466,
+      "tone_polarity": "neutral",
+      "targets": [
+        {
+          "surface": "Boeing",
+          "resolved": "Boeing",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "Either way, 143 deliveries in Q1 is something to be commended, let alone actually outpacing Airbus.",
+          "text_confidence": 1.0,
+          "tone_polarity": "neutral",
+          "tone_valence": 0.466,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 297.51,
+      "end": 297.591,
+      "text": "Bye.",
+      "overlap": false,
+      "tone_valence": null,
+      "tone_polarity": "unknown",
+      "targets": [
+        {
+          "surface": "Bye",
+          "resolved": "Bye",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "The speaker is saying goodbye, which is a neutral statement.",
+          "text_confidence": 1.0,
+          "tone_polarity": "unknown",
+          "tone_valence": null,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "by_speaker": {
+      "Speaker 1": {
+        "Boeing": {
+          "positive": 14,
+          "negative": 1,
+          "neutral": 6,
+          "mixed": 0,
+          "dominant": "positive"
+        },
+        "commercial aircraft": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "this year": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "the business": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "positive"
+        },
+        "737 MAX": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "positive"
+        },
+        "787": {
+          "positive": 2,
+          "negative": 0,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "positive"
+        },
+        "Airbus": {
+          "positive": 2,
+          "negative": 3,
+          "neutral": 3,
+          "mixed": 0,
+          "dominant": "tie"
+        },
+        "unresolved": {
+          "positive": 1,
+          "negative": 1,
+          "neutral": 2,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "resolved": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "airlines": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "March": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "the slower delivery output in March": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "the rework of some of its undelivered MAX aircraft": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "the MAX aircraft": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "MAX": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "787s": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "positive"
+        },
+        "the 777 program": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "positive"
+        },
+        "the jet": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "positive"
+        },
+        "the 767 platform": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "positive"
+        },
+        "787s and 777 program": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "positive"
+        },
+        "the output in the long haul segment": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "the first time on a sustained basis": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "engine supply chain bottlenecks": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "the delayed output rates": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "persistent issues": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "unsolved quality defects": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "watching": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "narrowbody sector": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "a quality-first production approach": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "positive"
+        },
+        "the MAX": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "positive"
+        },
+        "the FAA": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "customers": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "aircraft": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "parties": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "quality": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "positive"
+        },
+        "the gap between the two planemakers": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "positive"
+        },
+        "the two planemakers": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "the speaker": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        },
+        "Bye": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        }
+      }
+    }
+  }
+}

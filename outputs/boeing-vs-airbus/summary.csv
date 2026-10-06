@@ -1,0 +1,40 @@
+﻿source,speaker,target,positive,negative,neutral,mixed,dominant,mentions
+https://youtu.be/DIeSOIRcyng,Speaker 1,Boeing,14,1,6,0,positive,21
+https://youtu.be/DIeSOIRcyng,Speaker 1,commercial aircraft,0,0,1,0,neutral,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,this year,0,0,1,0,neutral,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,the business,1,0,0,0,positive,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,737 MAX,1,0,0,0,positive,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,787,2,0,0,0,positive,2
+https://youtu.be/DIeSOIRcyng,Speaker 1,Airbus,2,3,3,0,tie,8
+https://youtu.be/DIeSOIRcyng,Speaker 1,unresolved,1,1,2,0,neutral,4
+https://youtu.be/DIeSOIRcyng,Speaker 1,resolved,0,1,0,0,negative,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,airlines,0,0,1,0,neutral,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,March,0,0,1,0,neutral,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,the slower delivery output in March,0,1,0,0,negative,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,the rework of some of its undelivered MAX aircraft,0,0,1,0,neutral,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,the MAX aircraft,0,0,1,0,neutral,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,MAX,0,0,1,0,neutral,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,787s,1,0,0,0,positive,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,the 777 program,1,0,0,0,positive,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,the jet,1,0,0,0,positive,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,the 767 platform,1,0,0,0,positive,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,787s and 777 program,1,0,0,0,positive,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,the output in the long haul segment,0,0,1,0,neutral,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,the first time on a sustained basis,0,0,1,0,neutral,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,engine supply chain bottlenecks,0,1,0,0,negative,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,the delayed output rates,0,1,0,0,negative,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,persistent issues,0,1,0,0,negative,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,unsolved quality defects,0,1,0,0,negative,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,watching,0,0,1,0,neutral,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,narrowbody sector,0,0,1,0,neutral,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,a quality-first production approach,1,0,0,0,positive,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,the MAX,1,0,0,0,positive,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,the FAA,0,0,1,0,neutral,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,customers,0,0,1,0,neutral,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,aircraft,0,0,1,0,neutral,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,parties,0,0,1,0,neutral,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,quality,1,0,0,0,positive,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,the gap between the two planemakers,1,0,0,0,positive,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,the two planemakers,0,0,1,0,neutral,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,the speaker,0,0,1,0,neutral,1
+https://youtu.be/DIeSOIRcyng,Speaker 1,Bye,0,0,1,0,neutral,1

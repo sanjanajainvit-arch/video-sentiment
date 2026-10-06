@@ -1,0 +1,10 @@
+﻿source,speaker,start,end,text,overlap,surface,resolved,resolution,sentiment,evidence,text_confidence,tone_valence,tone_polarity,tone_conflict,sentiment_confidence
+examples\sample_turns.json,Speaker 1,0.0,4.2,Northwind has the best support in the market.,False,Northwind,Northwind,resolved,positive,has the best support,1.0,,unknown,False,1.0
+examples\sample_turns.json,Speaker 2,4.5,6.954,I would not go with them.,False,them,Northwind,resolved,negative,I would not go with them.,1.0,,unknown,False,1.0
+examples\sample_turns.json,Speaker 2,6.954,9.8,Contoso is not good on price.,False,Contoso,Contoso,resolved,negative,not good,1.0,,unknown,False,1.0
+examples\sample_turns.json,Speaker 1,10.0,14.5,"Northwind opened four offices last month, but their delays are still a problem.",False,Northwind,Northwind,resolved,negative,their delays are still a problem,1.0,,unknown,False,1.0
+examples\sample_turns.json,Speaker 1,10.0,14.5,"Northwind opened four offices last month, but their delays are still a problem.",False,their,Northwind,unresolved,negative,their delays are still a problem,1.0,,unknown,False,1.0
+examples\sample_turns.json,Speaker 1,10.0,14.5,"Northwind opened four offices last month, but their delays are still a problem.",False,delays,delays,resolved,negative,their delays are still a problem,1.0,,unknown,False,1.0
+examples\sample_turns.json,Speaker 1,10.0,14.5,"Northwind opened four offices last month, but their delays are still a problem.",False,offices,offices,resolved,neutral,Northwind opened four offices last month,1.0,,unknown,False,1.0
+examples\sample_turns.json,Speaker 3,15.0,18.2,The industry needs both of them.,False,Northwind,Northwind,resolved,positive,The industry needs both of them.,1.0,,unknown,False,1.0
+examples\sample_turns.json,Speaker 3,15.0,18.2,The industry needs both of them.,False,Contoso,Contoso,resolved,neutral,The industry needs both of them.,1.0,,unknown,False,1.0

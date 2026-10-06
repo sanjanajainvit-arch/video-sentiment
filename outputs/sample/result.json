@@ -1,0 +1,233 @@
+{
+  "source": "examples\\sample_turns.json",
+  "duration_sec": 18.2,
+  "speakers": [
+    "Speaker 1",
+    "Speaker 2",
+    "Speaker 3"
+  ],
+  "utterances": [
+    {
+      "speaker": "Speaker 1",
+      "start": 0.0,
+      "end": 4.2,
+      "text": "Northwind has the best support in the market.",
+      "overlap": false,
+      "tone_valence": null,
+      "tone_polarity": "unknown",
+      "targets": [
+        {
+          "surface": "Northwind",
+          "resolved": "Northwind",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "has the best support",
+          "text_confidence": 1.0,
+          "tone_polarity": "unknown",
+          "tone_valence": null,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 2",
+      "start": 4.5,
+      "end": 6.954,
+      "text": "I would not go with them.",
+      "overlap": false,
+      "tone_valence": null,
+      "tone_polarity": "unknown",
+      "targets": [
+        {
+          "surface": "them",
+          "resolved": "Northwind",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "I would not go with them.",
+          "text_confidence": 1.0,
+          "tone_polarity": "unknown",
+          "tone_valence": null,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 2",
+      "start": 6.954,
+      "end": 9.8,
+      "text": "Contoso is not good on price.",
+      "overlap": false,
+      "tone_valence": null,
+      "tone_polarity": "unknown",
+      "targets": [
+        {
+          "surface": "Contoso",
+          "resolved": "Contoso",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "not good",
+          "text_confidence": 1.0,
+          "tone_polarity": "unknown",
+          "tone_valence": null,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 10.0,
+      "end": 14.5,
+      "text": "Northwind opened four offices last month, but their delays are still a problem.",
+      "overlap": false,
+      "tone_valence": null,
+      "tone_polarity": "unknown",
+      "targets": [
+        {
+          "surface": "Northwind",
+          "resolved": "Northwind",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "their delays are still a problem",
+          "text_confidence": 1.0,
+          "tone_polarity": "unknown",
+          "tone_valence": null,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "their",
+          "resolved": "Northwind",
+          "resolution": "unresolved",
+          "sentiment": "negative",
+          "evidence": "their delays are still a problem",
+          "text_confidence": 1.0,
+          "tone_polarity": "unknown",
+          "tone_valence": null,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "delays",
+          "resolved": "delays",
+          "resolution": "resolved",
+          "sentiment": "negative",
+          "evidence": "their delays are still a problem",
+          "text_confidence": 1.0,
+          "tone_polarity": "unknown",
+          "tone_valence": null,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "offices",
+          "resolved": "offices",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "Northwind opened four offices last month",
+          "text_confidence": 1.0,
+          "tone_polarity": "unknown",
+          "tone_valence": null,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    },
+    {
+      "speaker": "Speaker 3",
+      "start": 15.0,
+      "end": 18.2,
+      "text": "The industry needs both of them.",
+      "overlap": false,
+      "tone_valence": null,
+      "tone_polarity": "unknown",
+      "targets": [
+        {
+          "surface": "Northwind",
+          "resolved": "Northwind",
+          "resolution": "resolved",
+          "sentiment": "positive",
+          "evidence": "The industry needs both of them.",
+          "text_confidence": 1.0,
+          "tone_polarity": "unknown",
+          "tone_valence": null,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        },
+        {
+          "surface": "Contoso",
+          "resolved": "Contoso",
+          "resolution": "resolved",
+          "sentiment": "neutral",
+          "evidence": "The industry needs both of them.",
+          "text_confidence": 1.0,
+          "tone_polarity": "unknown",
+          "tone_valence": null,
+          "tone_conflict": false,
+          "sentiment_confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "by_speaker": {
+      "Speaker 1": {
+        "Northwind": {
+          "positive": 1,
+          "negative": 2,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "delays": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "offices": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        }
+      },
+      "Speaker 2": {
+        "Northwind": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        },
+        "Contoso": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "negative"
+        }
+      },
+      "Speaker 3": {
+        "Northwind": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 0,
+          "mixed": 0,
+          "dominant": "positive"
+        },
+        "Contoso": {
+          "positive": 0,
+          "negative": 0,
+          "neutral": 1,
+          "mixed": 0,
+          "dominant": "neutral"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+# Local pipeline settings. Environment variables win when they are set:
+# HF_TOKEN, OLLAMA_MODEL, OLLAMA_HOST.
+
+whisper_model: large-v3
+language: en
+device: auto
+batch_size: 4
+min_speakers: null
+max_speakers: null
+# Optional spellings the transcriber should listen for. This does not limit
+# which subjects receive a sentiment score. Leave empty for any topic.
+name_hints: []
+initial_prompt: "English conversation."
+
+ollama_url: http://127.0.0.1:11434
+ollama_model: llama3.1
+context_sentences: 8
+
+# Valence from the local voice model is about 0 (unpleasant) to 1 (pleasant).
+valence_positive: 0.65
+valence_negative: 0.40
+conflict_confidence_scale: 0.75
+tone_model: audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim

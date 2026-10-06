@@ -1,0 +1,28 @@
+{
+  "utterances": [
+    {
+      "speaker": "Speaker 1",
+      "start": 0.0,
+      "end": 4.2,
+      "text": "Northwind has the best support in the market."
+    },
+    {
+      "speaker": "Speaker 2",
+      "start": 4.5,
+      "end": 9.8,
+      "text": "I would not go with them. Contoso is not good on price."
+    },
+    {
+      "speaker": "Speaker 1",
+      "start": 10.0,
+      "end": 14.5,
+      "text": "Northwind opened four offices last month, but their delays are still a problem."
+    },
+    {
+      "speaker": "Speaker 3",
+      "start": 15.0,
+      "end": 18.2,
+      "text": "The industry needs both of them."
+    }
+  ]
+}
